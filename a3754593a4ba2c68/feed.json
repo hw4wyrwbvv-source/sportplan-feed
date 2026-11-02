@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T08:20:08+01:00",
+ "generated_at": "2026-11-02T08:28:05+01:00",
  "plan_date": "2026-11-02",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
@@ -13,7 +13,7 @@
    "sender": "Sky",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "2026-11-02_0200_timberwolves-bucks",
@@ -25,7 +25,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "2026-11-02_0215_bears-seahawks",
@@ -37,7 +37,7 @@
    "sender": "DAZN / Game Pass",
    "top": true,
    "fav": false,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "2026-11-02_0400_clippers-raptors",
@@ -49,7 +49,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   }
  ],
  "woche": [
@@ -63,7 +63,7 @@
    "sender": "Sky",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "w-mo-0200-timberwolves-bucks",
@@ -75,7 +75,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "w-mo-0215-bears-seahawks",
@@ -87,7 +87,7 @@
    "sender": "DAZN / Game Pass",
    "top": true,
    "fav": false,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "w-mo-0400-clippers-raptors",
@@ -99,7 +99,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "w-di-1845-galatasaray-stuttgart",
