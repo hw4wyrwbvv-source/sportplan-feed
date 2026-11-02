@@ -44,7 +44,7 @@ def dauer(sport, lg, titel):
     return DAUER.get(sport, 120)
 
 
-def ev(e, tag, key_date, alerts):
+def ev(e, tag, key_date, alerts, wid=None):
     t, n, s, lg, m, tv, fav, _d = e[:8]
     x = e[8] if len(e) > 8 else 0
     std = e[9] if len(e) > 9 else None
@@ -53,6 +53,8 @@ def ev(e, tag, key_date, alerts):
     ende = start + timedelta(minutes=dauer(s, lg, m))
     eid = f"{key_date.isoformat()}_{t.replace(':', '')}_{slug(m)}"
     on = alerts.get(eid)
+    if wid:
+        eid = f"w-{wid}-{t.replace(':', '')}-{slug(m)}"
     if on is None:
         on = bool(std) if std is not None else not x
     return {"id": eid, "start": start.isoformat(), "ende": ende.isoformat(),
@@ -92,7 +94,7 @@ def main():
         base = date(yr, mo, dd)
         for e in sec["ev"]:
             nacht = "nacht" in (e[1] or "").lower() or int(e[0][:2]) < 6
-            woche.append(ev(e, base + timedelta(days=1) if nacht else base, base, alerts))
+            woche.append(ev(e, base + timedelta(days=1) if nacht else base, base, alerts, sec["id"]))
 
     tag.sort(key=lambda e: e["start"]); woche.sort(key=lambda e: e["start"])
     out = {"generated_at": datetime.now(TZ).isoformat(timespec="seconds"),

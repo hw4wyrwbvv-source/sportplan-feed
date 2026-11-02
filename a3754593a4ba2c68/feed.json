@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T08:18:28+01:00",
+ "generated_at": "2026-11-02T08:20:08+01:00",
  "plan_date": "2026-11-02",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
@@ -54,7 +54,7 @@
  ],
  "woche": [
   {
-   "id": "2026-11-02_2100_newcastle-everton",
+   "id": "w-mo-2100-newcastle-everton",
    "start": "2026-11-02T21:00:00+01:00",
    "ende": "2026-11-02T22:55:00+01:00",
    "sport": "fb",
@@ -66,7 +66,7 @@
    "glocke": false
   },
   {
-   "id": "2026-11-02_0200_timberwolves-bucks",
+   "id": "w-mo-0200-timberwolves-bucks",
    "start": "2026-11-03T02:00:00+01:00",
    "ende": "2026-11-03T04:30:00+01:00",
    "sport": "nba",
@@ -78,7 +78,7 @@
    "glocke": true
   },
   {
-   "id": "2026-11-02_0215_bears-seahawks",
+   "id": "w-mo-0215-bears-seahawks",
    "start": "2026-11-03T02:15:00+01:00",
    "ende": "2026-11-03T05:35:00+01:00",
    "sport": "nfl",
@@ -90,7 +90,7 @@
    "glocke": true
   },
   {
-   "id": "2026-11-02_0400_clippers-raptors",
+   "id": "w-mo-0400-clippers-raptors",
    "start": "2026-11-03T04:00:00+01:00",
    "ende": "2026-11-03T06:30:00+01:00",
    "sport": "nba",
@@ -102,7 +102,7 @@
    "glocke": true
   },
   {
-   "id": "2026-11-03_1845_galatasaray-stuttgart",
+   "id": "w-di-1845-galatasaray-stuttgart",
    "start": "2026-11-03T18:45:00+01:00",
    "ende": "2026-11-03T20:40:00+01:00",
    "sport": "fb",
@@ -114,7 +114,7 @@
    "glocke": false
   },
   {
-   "id": "2026-11-03_2100_atletico-madrid-bayern",
+   "id": "w-di-2100-atletico-madrid-bayern",
    "start": "2026-11-03T21:00:00+01:00",
    "ende": "2026-11-03T22:55:00+01:00",
    "sport": "fb",
@@ -126,7 +126,7 @@
    "glocke": true
   },
   {
-   "id": "2026-11-03_2100_barcelona-aston-villa",
+   "id": "w-di-2100-barcelona-aston-villa",
    "start": "2026-11-03T21:00:00+01:00",
    "ende": "2026-11-03T22:55:00+01:00",
    "sport": "fb",
@@ -138,7 +138,7 @@
    "glocke": false
   },
   {
-   "id": "2026-11-03_2100_villarreal-paris-saint-germain",
+   "id": "w-di-2100-villarreal-paris-saint-germain",
    "start": "2026-11-03T21:00:00+01:00",
    "ende": "2026-11-03T22:55:00+01:00",
    "sport": "fb",
@@ -150,7 +150,7 @@
    "glocke": false
   },
   {
-   "id": "2026-11-03_2100_manchester-united-roma",
+   "id": "w-di-2100-manchester-united-roma",
    "start": "2026-11-03T21:00:00+01:00",
    "ende": "2026-11-03T22:55:00+01:00",
    "sport": "fb",
@@ -162,7 +162,7 @@
    "glocke": false
   },
   {
-   "id": "2026-11-04_1845_fenerbahce-liverpool",
+   "id": "w-mi-1845-fenerbahce-liverpool",
    "start": "2026-11-04T18:45:00+01:00",
    "ende": "2026-11-04T20:40:00+01:00",
    "sport": "fb",
@@ -174,7 +174,7 @@
    "glocke": true
   },
   {
-   "id": "2026-11-04_1845_aek-athen-real-madrid",
+   "id": "w-mi-1845-aek-athen-real-madrid",
    "start": "2026-11-04T18:45:00+01:00",
    "ende": "2026-11-04T20:40:00+01:00",
    "sport": "fb",
@@ -186,7 +186,7 @@
    "glocke": false
   },
   {
-   "id": "2026-11-04_2100_rb-leipzig-manchester-city",
+   "id": "w-mi-2100-rb-leipzig-manchester-city",
    "start": "2026-11-04T21:00:00+01:00",
    "ende": "2026-11-04T22:55:00+01:00",
    "sport": "fb",
@@ -198,7 +198,7 @@
    "glocke": true
   },
   {
-   "id": "2026-11-04_2100_dortmund-real-betis",
+   "id": "w-mi-2100-dortmund-real-betis",
    "start": "2026-11-04T21:00:00+01:00",
    "ende": "2026-11-04T22:55:00+01:00",
    "sport": "fb",
@@ -210,7 +210,7 @@
    "glocke": false
   },
   {
-   "id": "2026-11-04_2100_slavia-prag-arsenal",
+   "id": "w-mi-2100-slavia-prag-arsenal",
    "start": "2026-11-04T21:00:00+01:00",
    "ende": "2026-11-04T22:55:00+01:00",
    "sport": "fb",
@@ -222,7 +222,7 @@
    "glocke": false
   },
   {
-   "id": "2026-11-04_0300_nuggets-raptors",
+   "id": "w-mi-0300-nuggets-raptors",
    "start": "2026-11-05T03:00:00+01:00",
    "ende": "2026-11-05T05:30:00+01:00",
    "sport": "nba",
@@ -234,7 +234,7 @@
    "glocke": true
   },
   {
-   "id": "2026-11-05_2100_leverkusen-marseille",
+   "id": "w-do-2100-leverkusen-marseille",
    "start": "2026-11-05T21:00:00+01:00",
    "ende": "2026-11-05T22:55:00+01:00",
    "sport": "fb",
@@ -246,7 +246,7 @@
    "glocke": false
   },
   {
-   "id": "2026-11-05_0215_ravens-jaguars",
+   "id": "w-do-0215-ravens-jaguars",
    "start": "2026-11-06T02:15:00+01:00",
    "ende": "2026-11-06T05:35:00+01:00",
    "sport": "nfl",
@@ -258,7 +258,7 @@
    "glocke": true
   },
   {
-   "id": "2026-11-06_2030_hamburger-sv-monchengladbach",
+   "id": "w-fr-2030-hamburger-sv-monchengladbach",
    "start": "2026-11-06T20:30:00+01:00",
    "ende": "2026-11-06T22:25:00+01:00",
    "sport": "fb",
@@ -270,7 +270,7 @@
    "glocke": false
   },
   {
-   "id": "2026-11-06_0200_pelicans-timberwolves",
+   "id": "w-fr-0200-pelicans-timberwolves",
    "start": "2026-11-07T02:00:00+01:00",
    "ende": "2026-11-07T04:30:00+01:00",
    "sport": "nba",
@@ -282,7 +282,7 @@
    "glocke": true
   },
   {
-   "id": "2026-11-06_0200_bucks-raptors",
+   "id": "w-fr-0200-bucks-raptors",
    "start": "2026-11-07T02:00:00+01:00",
    "ende": "2026-11-07T04:30:00+01:00",
    "sport": "nba",
@@ -294,7 +294,7 @@
    "glocke": true
   },
   {
-   "id": "2026-11-07_1530_mainz-bayern",
+   "id": "w-sa-1530-mainz-bayern",
    "start": "2026-11-07T15:30:00+01:00",
    "ende": "2026-11-07T17:25:00+01:00",
    "sport": "fb",
@@ -306,7 +306,7 @@
    "glocke": true
   },
   {
-   "id": "2026-11-07_1830_stuttgart-werder-bremen",
+   "id": "w-sa-1830-stuttgart-werder-bremen",
    "start": "2026-11-07T18:30:00+01:00",
    "ende": "2026-11-07T20:25:00+01:00",
    "sport": "fb",
@@ -318,7 +318,7 @@
    "glocke": true
   },
   {
-   "id": "2026-11-07_1830_nottingham-forest-manchester-city",
+   "id": "w-sa-1830-nottingham-forest-manchester-city",
    "start": "2026-11-07T18:30:00+01:00",
    "ende": "2026-11-07T20:25:00+01:00",
    "sport": "fb",
@@ -330,7 +330,7 @@
    "glocke": false
   },
   {
-   "id": "2026-11-07_1900_gp-sao-paulo-qualifying",
+   "id": "w-sa-1900-gp-sao-paulo-qualifying",
    "start": "2026-11-07T19:00:00+01:00",
    "ende": "2026-11-07T20:00:00+01:00",
    "sport": "f1",
@@ -342,7 +342,7 @@
    "glocke": true
   },
   {
-   "id": "2026-11-08_1500_crystal-palace-liverpool",
+   "id": "w-so-1500-crystal-palace-liverpool",
    "start": "2026-11-08T15:00:00+01:00",
    "ende": "2026-11-08T16:55:00+01:00",
    "sport": "fb",
@@ -354,7 +354,7 @@
    "glocke": true
   },
   {
-   "id": "2026-11-08_1530_koln-leverkusen",
+   "id": "w-so-1530-koln-leverkusen",
    "start": "2026-11-08T15:30:00+01:00",
    "ende": "2026-11-08T17:25:00+01:00",
    "sport": "fb",
@@ -366,7 +366,7 @@
    "glocke": false
   },
   {
-   "id": "2026-11-08_1730_manchester-united-aston-villa",
+   "id": "w-so-1730-manchester-united-aston-villa",
    "start": "2026-11-08T17:30:00+01:00",
    "ende": "2026-11-08T19:25:00+01:00",
    "sport": "fb",
@@ -378,7 +378,7 @@
    "glocke": false
   },
   {
-   "id": "2026-11-08_1800_grosser-preis-von-sao-paulo",
+   "id": "w-so-1800-grosser-preis-von-sao-paulo",
    "start": "2026-11-08T18:00:00+01:00",
    "ende": "2026-11-08T20:00:00+01:00",
    "sport": "f1",
@@ -390,7 +390,7 @@
    "glocke": true
   },
   {
-   "id": "2026-11-08_1900_giants-eagles",
+   "id": "w-so-1900-giants-eagles",
    "start": "2026-11-08T19:00:00+01:00",
    "ende": "2026-11-08T22:20:00+01:00",
    "sport": "nfl",
@@ -402,7 +402,7 @@
    "glocke": false
   },
   {
-   "id": "2026-11-08_2225_packers-patriots",
+   "id": "w-so-2225-packers-patriots",
    "start": "2026-11-08T22:25:00+01:00",
    "ende": "2026-11-09T01:45:00+01:00",
    "sport": "nfl",
@@ -414,7 +414,7 @@
    "glocke": false
   },
   {
-   "id": "2026-11-08_0100_timberwolves-jazz",
+   "id": "w-so-0100-timberwolves-jazz",
    "start": "2026-11-09T01:00:00+01:00",
    "ende": "2026-11-09T03:30:00+01:00",
    "sport": "nba",
@@ -426,7 +426,7 @@
    "glocke": true
   },
   {
-   "id": "2026-11-08_0220_buccaneers-bears",
+   "id": "w-so-0220-buccaneers-bears",
    "start": "2026-11-09T02:20:00+01:00",
    "ende": "2026-11-09T05:40:00+01:00",
    "sport": "nfl",
