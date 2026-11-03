@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T07:06:10+01:00",
+ "generated_at": "2026-11-03T12:06:41+01:00",
  "plan_date": "2026-11-03",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
@@ -25,7 +25,7 @@
    "sender": "Prime Video",
    "top": true,
    "fav": true,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "2026-11-03_2100_barcelona-aston-villa",
@@ -135,7 +135,7 @@
    "sender": "DAZN",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "w-di-2100-atletico-madrid-bayern",
@@ -147,7 +147,7 @@
    "sender": "DAZN / Prime Video",
    "top": true,
    "fav": true,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "w-di-2100-barcelona-aston-villa",
