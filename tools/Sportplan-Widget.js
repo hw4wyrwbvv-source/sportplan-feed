@@ -86,7 +86,17 @@ const kopf = w.addStack();
 kopf.centerAlignContent();
 text(kopf, TITEL, klein ? 14 : 16, C.text, "b");
 kopf.addSpacer();
-if (!klein) text(kopf, fKopf.string(jetzt), 11, C.sub, "s");
+if (!klein) {
+  text(kopf, fKopf.string(jetzt), 11, C.sub, "s");
+  kopf.addSpacer(8);
+  // Aktualisieren-Button: öffnet Scriptable, führt das Script aus und lädt den Feed neu
+  const knopf = kopf.addStack();
+  knopf.setPadding(2, 7, 2, 7);
+  knopf.backgroundColor = new Color("#ffffff26");
+  knopf.cornerRadius = 9;
+  knopf.url = "scriptable:///run/" + encodeURIComponent(Script.name());
+  text(knopf, "↻", 13, C.text, "b");
+}
 w.addSpacer(klein ? 6 : 9);
 
 if (!data) {
