@@ -1,54 +1,78 @@
 {
- "generated_at": "2026-11-02T08:28:05+01:00",
- "plan_date": "2026-11-02",
+ "generated_at": "2026-11-03T07:06:10+01:00",
+ "plan_date": "2026-11-03",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
   {
-   "id": "2026-11-02_2100_newcastle-everton",
-   "start": "2026-11-02T21:00:00+01:00",
-   "ende": "2026-11-02T22:55:00+01:00",
+   "id": "2026-11-03_1845_galatasaray-stuttgart",
+   "start": "2026-11-03T18:45:00+01:00",
+   "ende": "2026-11-03T20:40:00+01:00",
    "sport": "fb",
-   "titel": "Newcastle – Everton",
-   "wettbewerb": "Premier League",
-   "sender": "Sky",
-   "top": false,
+   "titel": "Galatasaray – Stuttgart",
+   "wettbewerb": "Champions League",
+   "sender": "DAZN (gratis)",
+   "top": true,
    "fav": false,
    "glocke": true
   },
   {
-   "id": "2026-11-02_0200_timberwolves-bucks",
-   "start": "2026-11-03T02:00:00+01:00",
-   "ende": "2026-11-03T04:30:00+01:00",
-   "sport": "nba",
-   "titel": "Timberwolves – Bucks",
-   "wettbewerb": "NBA",
-   "sender": "League Pass",
+   "id": "2026-11-03_2100_atletico-madrid-bayern",
+   "start": "2026-11-03T21:00:00+01:00",
+   "ende": "2026-11-03T22:55:00+01:00",
+   "sport": "fb",
+   "titel": "Atlético Madrid – Bayern",
+   "wettbewerb": "Champions League",
+   "sender": "Prime Video",
    "top": true,
    "fav": true,
    "glocke": false
   },
   {
-   "id": "2026-11-02_0215_bears-seahawks",
-   "start": "2026-11-03T02:15:00+01:00",
-   "ende": "2026-11-03T05:35:00+01:00",
-   "sport": "nfl",
-   "titel": "Bears @ Seahawks",
-   "wettbewerb": "NFL Monday Night",
-   "sender": "DAZN / Game Pass",
-   "top": true,
+   "id": "2026-11-03_2100_barcelona-aston-villa",
+   "start": "2026-11-03T21:00:00+01:00",
+   "ende": "2026-11-03T22:55:00+01:00",
+   "sport": "fb",
+   "titel": "Barcelona – Aston Villa",
+   "wettbewerb": "Champions League",
+   "sender": "DAZN (gratis)",
+   "top": false,
    "fav": false,
    "glocke": false
   },
   {
-   "id": "2026-11-02_0400_clippers-raptors",
-   "start": "2026-11-03T04:00:00+01:00",
-   "ende": "2026-11-03T06:30:00+01:00",
-   "sport": "nba",
-   "titel": "Clippers – Raptors",
-   "wettbewerb": "NBA",
-   "sender": "League Pass",
-   "top": true,
-   "fav": true,
+   "id": "2026-11-03_2100_villarreal-paris-saint-germain",
+   "start": "2026-11-03T21:00:00+01:00",
+   "ende": "2026-11-03T22:55:00+01:00",
+   "sport": "fb",
+   "titel": "Villarreal – Paris Saint-Germain",
+   "wettbewerb": "Champions League",
+   "sender": "DAZN (gratis)",
+   "top": false,
+   "fav": false,
+   "glocke": false
+  },
+  {
+   "id": "2026-11-03_2100_manchester-united-roma",
+   "start": "2026-11-03T21:00:00+01:00",
+   "ende": "2026-11-03T22:55:00+01:00",
+   "sport": "fb",
+   "titel": "Manchester United – Roma",
+   "wettbewerb": "Champions League",
+   "sender": "DAZN (gratis)",
+   "top": false,
+   "fav": false,
+   "glocke": false
+  },
+  {
+   "id": "2026-11-03_2100_feyenoord-inter",
+   "start": "2026-11-03T21:00:00+01:00",
+   "ende": "2026-11-03T22:55:00+01:00",
+   "sport": "fb",
+   "titel": "Feyenoord – Inter",
+   "wettbewerb": "Champions League",
+   "sender": "DAZN (gratis)",
+   "top": false,
+   "fav": false,
    "glocke": false
   }
  ],
@@ -63,7 +87,7 @@
    "sender": "Sky",
    "top": false,
    "fav": false,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "w-mo-0200-timberwolves-bucks",
@@ -75,7 +99,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "w-mo-0215-bears-seahawks",
@@ -87,7 +111,7 @@
    "sender": "DAZN / Game Pass",
    "top": true,
    "fav": false,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "w-mo-0400-clippers-raptors",
@@ -99,7 +123,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "w-di-1845-galatasaray-stuttgart",
@@ -123,7 +147,7 @@
    "sender": "DAZN / Prime Video",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "w-di-2100-barcelona-aston-villa",
