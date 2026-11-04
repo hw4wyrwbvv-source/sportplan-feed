@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T07:06:22+01:00",
+ "generated_at": "2026-11-04T12:06:56+01:00",
  "plan_date": "2026-11-04",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
@@ -25,7 +25,7 @@
    "sender": "DAZN",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "2026-11-04_2100_rb-leipzig-manchester-city",
@@ -85,7 +85,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "2026-11-04_0300_nuggets-raptors",
@@ -97,7 +97,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   }
  ],
  "woche": [
@@ -231,7 +231,7 @@
    "sender": "DAZN",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "w-mi-2100-rb-leipzig-manchester-city",
@@ -327,7 +327,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "w-do-2100-leverkusen-marseille",
