@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T07:06:25+01:00",
+ "generated_at": "2026-11-06T18:08:01+01:00",
  "plan_date": "2026-11-06",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
@@ -25,7 +25,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "2026-11-06_0200_bucks-raptors",
@@ -37,7 +37,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   }
  ],
  "woche": [
@@ -315,7 +315,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "w-fr-0200-bucks-raptors",
@@ -327,7 +327,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "w-sa-1530-mainz-bayern",
