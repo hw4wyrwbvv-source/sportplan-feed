@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T07:06:08+01:00",
+ "generated_at": "2026-11-07T12:06:05+01:00",
  "plan_date": "2026-11-07",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
@@ -13,7 +13,7 @@
    "sender": "Sky",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "2026-11-07_1530_mainz-bayern",
@@ -82,7 +82,7 @@
    "sport": "f1",
    "titel": "GP São Paulo: Qualifying",
    "wettbewerb": "Formel 1",
-   "sender": "Sky",
+   "sender": "Sky, RTL+",
    "top": true,
    "fav": false,
    "glocke": true
@@ -94,10 +94,10 @@
    "sport": "fb",
    "titel": "Valencia – Real Madrid",
    "wettbewerb": "La Liga",
-   "sender": "DAZN",
+   "sender": "DAZN (unbestätigt)",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   }
  ],
  "woche": [
