@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T07:06:03+01:00",
+ "generated_at": "2026-11-08T18:05:58+01:00",
  "plan_date": "2026-11-08",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
@@ -109,7 +109,7 @@
    "sender": "RTL",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "2026-11-08_0100_timberwolves-jazz",
@@ -121,7 +121,7 @@
    "sender": "NBA League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "2026-11-08_0220_buccaneers-bears",
@@ -133,7 +133,7 @@
    "sender": "RTL",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   }
  ],
  "woche": [
@@ -543,7 +543,7 @@
    "sender": "DAZN / Game Pass",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "w-so-0100-timberwolves-jazz",
@@ -555,7 +555,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "w-so-0220-buccaneers-bears",
@@ -567,7 +567,7 @@
    "sender": "DAZN / Game Pass",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   }
  ]
 }
