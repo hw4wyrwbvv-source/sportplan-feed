@@ -1,29 +1,17 @@
 {
- "generated_at": "2026-11-09T07:10:49+01:00",
- "plan_date": "2026-11-09",
+ "generated_at": "2026-11-10T07:09:24+01:00",
+ "plan_date": "2026-11-10",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
   {
-   "id": "2026-11-09_0130_raptors-grizzlies",
-   "start": "2026-11-10T01:30:00+01:00",
-   "ende": "2026-11-10T04:00:00+01:00",
+   "id": "2026-11-10_0200_celtics-76ers",
+   "start": "2026-11-11T02:00:00+01:00",
+   "ende": "2026-11-11T04:30:00+01:00",
    "sport": "nba",
-   "titel": "Raptors – Grizzlies",
+   "titel": "Celtics @ 76ers",
    "wettbewerb": "NBA",
    "sender": "NBA League Pass",
    "top": true,
-   "fav": true,
-   "glocke": true
-  },
-  {
-   "id": "2026-11-09_0215_bills-vikings",
-   "start": "2026-11-10T02:15:00+01:00",
-   "ende": "2026-11-10T05:35:00+01:00",
-   "sport": "nfl",
-   "titel": "Bills @ Vikings",
-   "wettbewerb": "NFL · Monday Night",
-   "sender": "RTL",
-   "top": false,
    "fav": false,
    "glocke": false
   }
