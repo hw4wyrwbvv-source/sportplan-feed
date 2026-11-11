@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-10T07:09:24+01:00",
- "plan_date": "2026-11-10",
+ "generated_at": "2026-11-11T07:07:32+01:00",
+ "plan_date": "2026-11-11",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
   {
-   "id": "2026-11-10_0200_celtics-76ers",
-   "start": "2026-11-11T02:00:00+01:00",
-   "ende": "2026-11-11T04:30:00+01:00",
+   "id": "2026-11-11_0100_raptors-celtics",
+   "start": "2026-11-12T01:00:00+01:00",
+   "ende": "2026-11-12T03:30:00+01:00",
    "sport": "nba",
-   "titel": "Celtics @ 76ers",
+   "titel": "Raptors – Celtics",
    "wettbewerb": "NBA",
    "sender": "NBA League Pass",
    "top": true,
-   "fav": false,
-   "glocke": false
+   "fav": true,
+   "glocke": true
   }
  ],
  "woche": [
