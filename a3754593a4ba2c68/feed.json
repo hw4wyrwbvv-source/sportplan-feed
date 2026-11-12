@@ -1,19 +1,91 @@
 {
- "generated_at": "2026-11-11T07:07:32+01:00",
- "plan_date": "2026-11-11",
+ "generated_at": "2026-11-12T07:05:57+01:00",
+ "plan_date": "2026-11-12",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
   {
-   "id": "2026-11-11_0100_raptors-celtics",
-   "start": "2026-11-12T01:00:00+01:00",
-   "ende": "2026-11-12T03:30:00+01:00",
+   "id": "2026-11-12_1800_turkei-belgien",
+   "start": "2026-11-12T18:00:00+01:00",
+   "ende": "2026-11-12T19:55:00+01:00",
+   "sport": "fb",
+   "titel": "Türkei – Belgien",
+   "wettbewerb": "Nations League",
+   "sender": "DAZN",
+   "top": false,
+   "fav": false,
+   "glocke": false
+  },
+  {
+   "id": "2026-11-12_2045_italien-frankreich",
+   "start": "2026-11-12T20:45:00+01:00",
+   "ende": "2026-11-12T22:40:00+01:00",
+   "sport": "fb",
+   "titel": "Italien – Frankreich",
+   "wettbewerb": "Nations League",
+   "sender": "DAZN",
+   "top": true,
+   "fav": false,
+   "glocke": true
+  },
+  {
+   "id": "2026-11-12_2045_england-kroatien",
+   "start": "2026-11-12T20:45:00+01:00",
+   "ende": "2026-11-12T22:40:00+01:00",
+   "sport": "fb",
+   "titel": "England – Kroatien",
+   "wettbewerb": "Nations League",
+   "sender": "DAZN",
+   "top": false,
+   "fav": false,
+   "glocke": false
+  },
+  {
+   "id": "2026-11-12_2045_tschechien-spanien",
+   "start": "2026-11-12T20:45:00+01:00",
+   "ende": "2026-11-12T22:40:00+01:00",
+   "sport": "fb",
+   "titel": "Tschechien – Spanien",
+   "wettbewerb": "Nations League",
+   "sender": "DAZN",
+   "top": false,
+   "fav": false,
+   "glocke": false
+  },
+  {
+   "id": "2026-11-12_0100_76ers-raptors",
+   "start": "2026-11-13T01:00:00+01:00",
+   "ende": "2026-11-13T03:30:00+01:00",
    "sport": "nba",
-   "titel": "Raptors – Celtics",
+   "titel": "76ers – Raptors",
    "wettbewerb": "NBA",
    "sender": "NBA League Pass",
    "top": true,
    "fav": true,
    "glocke": true
+  },
+  {
+   "id": "2026-11-12_0200_timberwolves-mavericks",
+   "start": "2026-11-13T02:00:00+01:00",
+   "ende": "2026-11-13T04:30:00+01:00",
+   "sport": "nba",
+   "titel": "Timberwolves – Mavericks",
+   "wettbewerb": "NBA",
+   "sender": "NBA League Pass",
+   "top": true,
+   "fav": true,
+   "glocke": true
+  },
+  {
+   "id": "2026-11-12_0215_commanders-giants",
+   "start": "2026-11-13T02:15:00+01:00",
+   "ende": "2026-11-13T05:35:00+01:00",
+   "sport": "nfl",
+   "titel": "Commanders @ Giants",
+   "wettbewerb": "NFL · Thursday Night",
+   "sender": "RTL",
+   "top": false,
+   "fav": false,
+   "glocke": false
   }
  ],
  "woche": [
