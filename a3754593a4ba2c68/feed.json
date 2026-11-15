@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T07:06:15+01:00",
+ "generated_at": "2026-11-15T12:06:13+01:00",
  "plan_date": "2026-11-15",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
@@ -25,7 +25,7 @@
    "sender": "RTL",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "2026-11-15_1900_vikings-packers",
@@ -73,7 +73,7 @@
    "sender": "DAZN",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "2026-11-15_2225_49ers-cowboys",
@@ -85,7 +85,7 @@
    "sender": "RTL",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "2026-11-15_0000_raptors-knicks",
@@ -97,7 +97,7 @@
    "sender": "NBA League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "2026-11-15_0220_steelers-bengals",
@@ -327,7 +327,7 @@
    "sender": "DAZN",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "w-so-2045-belgien-italien",
@@ -351,7 +351,7 @@
    "sender": "Sender unbestätigt",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "w-so-0220-steelers-bengals",
