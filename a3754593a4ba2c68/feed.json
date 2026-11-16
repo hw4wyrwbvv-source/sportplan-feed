@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T07:06:08+01:00",
+ "generated_at": "2026-11-16T18:05:42+01:00",
  "plan_date": "2026-11-16",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
@@ -37,7 +37,7 @@
    "sender": "NBA League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "2026-11-16_0215_chargers-ravens",
@@ -49,7 +49,7 @@
    "sender": "RTL",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   }
  ],
  "woche": [
@@ -87,7 +87,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "w-mo-0215-chargers-ravens",
@@ -99,7 +99,7 @@
    "sender": "RTL",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "w-di-0130-raptors-knicks",
