@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T07:05:59+01:00",
+ "generated_at": "2026-11-16T07:06:08+01:00",
  "plan_date": "2026-11-16",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
@@ -186,6 +186,18 @@
    "glocke": true
   },
   {
+   "id": "w-sa-0500-gp-las-vegas-qualifying",
+   "start": "2026-11-21T05:00:00+01:00",
+   "ende": "2026-11-21T06:00:00+01:00",
+   "sport": "f1",
+   "titel": "GP Las Vegas: Qualifying",
+   "wettbewerb": "Formel 1",
+   "sender": "Sky",
+   "top": true,
+   "fav": false,
+   "glocke": true
+  },
+  {
    "id": "w-sa-1530-gladbach-dortmund",
    "start": "2026-11-21T15:30:00+01:00",
    "ende": "2026-11-21T17:25:00+01:00",
@@ -234,11 +246,11 @@
    "glocke": true
   },
   {
-   "id": "w-sa-0500-gp-las-vegas-qualifying",
+   "id": "w-so-0500-grosser-preis-von-las-vegas",
    "start": "2026-11-22T05:00:00+01:00",
-   "ende": "2026-11-22T06:00:00+01:00",
+   "ende": "2026-11-22T07:00:00+01:00",
    "sport": "f1",
-   "titel": "GP Las Vegas: Qualifying",
+   "titel": "Großer Preis von Las Vegas",
    "wettbewerb": "Formel 1",
    "sender": "Sky",
    "top": true,
@@ -292,18 +304,6 @@
    "top": false,
    "fav": false,
    "glocke": false
-  },
-  {
-   "id": "w-so-0500-grosser-preis-von-las-vegas",
-   "start": "2026-11-23T05:00:00+01:00",
-   "ende": "2026-11-23T07:00:00+01:00",
-   "sport": "f1",
-   "titel": "Großer Preis von Las Vegas",
-   "wettbewerb": "Formel 1",
-   "sender": "Sky",
-   "top": true,
-   "fav": false,
-   "glocke": true
   }
  ]
 }

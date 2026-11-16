@@ -93,7 +93,8 @@ def main():
         yr = pd.year + (1 if mo < pd.month - 6 else 0)
         base = date(yr, mo, dd)
         for e in sec["ev"]:
-            nacht = "nacht" in (e[1] or "").lower() or int(e[0][:2]) < 6
+            nt = (e[1] or "").lower()
+            nacht = "nacht" in nt or (int(e[0][:2]) < 6 and "früh" not in nt)
             woche.append(ev(e, base + timedelta(days=1) if nacht else base, base, alerts, sec["id"]))
 
     tag.sort(key=lambda e: e["start"]); woche.sort(key=lambda e: e["start"])
