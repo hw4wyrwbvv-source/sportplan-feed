@@ -1,19 +1,31 @@
 {
- "generated_at": "2026-11-18T07:06:18+01:00",
- "plan_date": "2026-11-18",
+ "generated_at": "2026-11-19T07:06:12+01:00",
+ "plan_date": "2026-11-19",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
   {
-   "id": "2026-11-18_0130_raptors-wizards",
-   "start": "2026-11-19T01:30:00+01:00",
-   "ende": "2026-11-19T04:00:00+01:00",
+   "id": "2026-11-19_0200_timberwolves-knicks",
+   "start": "2026-11-20T02:00:00+01:00",
+   "ende": "2026-11-20T04:30:00+01:00",
    "sport": "nba",
-   "titel": "Raptors – Wizards",
+   "titel": "Timberwolves – Knicks",
    "wettbewerb": "NBA",
    "sender": "NBA League Pass",
    "top": true,
    "fav": true,
    "glocke": true
+  },
+  {
+   "id": "2026-11-19_0215_colts-texans",
+   "start": "2026-11-20T02:15:00+01:00",
+   "ende": "2026-11-20T05:35:00+01:00",
+   "sport": "nfl",
+   "titel": "Colts @ Texans",
+   "wettbewerb": "NFL",
+   "sender": "RTL",
+   "top": false,
+   "fav": false,
+   "glocke": false
   }
  ],
  "woche": [
