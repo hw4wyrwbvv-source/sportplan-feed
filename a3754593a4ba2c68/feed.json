@@ -1,79 +1,79 @@
 {
- "generated_at": "2026-11-21T12:05:37+01:00",
- "plan_date": "2026-11-21",
+ "generated_at": "2026-11-22T07:06:06+01:00",
+ "plan_date": "2026-11-22",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
   {
-   "id": "2026-11-21_1530_gladbach-dortmund",
-   "start": "2026-11-21T15:30:00+01:00",
-   "ende": "2026-11-21T17:25:00+01:00",
-   "sport": "fb",
-   "titel": "Gladbach – Dortmund",
-   "wettbewerb": "Bundesliga · 10. Spieltag",
-   "sender": "Sky (Einzelspiel) · DAZN (Konferenz)",
-   "top": true,
-   "fav": false,
-   "glocke": true
-  },
-  {
-   "id": "2026-11-21_1830_newcastle-arsenal",
-   "start": "2026-11-21T18:30:00+01:00",
-   "ende": "2026-11-21T20:25:00+01:00",
-   "sport": "fb",
-   "titel": "Newcastle – Arsenal",
-   "wettbewerb": "Premier League",
-   "sender": "Sky",
-   "top": false,
-   "fav": false,
-   "glocke": false
-  },
-  {
-   "id": "2026-11-21_1830_sevilla-betis",
-   "start": "2026-11-21T18:30:00+01:00",
-   "ende": "2026-11-21T20:25:00+01:00",
-   "sport": "fb",
-   "titel": "Sevilla – Betis",
-   "wettbewerb": "La Liga",
-   "sender": "DAZN (unbestätigt)",
-   "top": false,
-   "fav": false,
-   "glocke": false
-  },
-  {
-   "id": "2026-11-21_2000_viertelfinale-abendsession",
-   "start": "2026-11-21T20:00:00+01:00",
-   "ende": "2026-11-21T22:00:00+01:00",
+   "id": "2026-11-22_1415_halbfinals",
+   "start": "2026-11-22T14:15:00+01:00",
+   "ende": "2026-11-22T16:15:00+01:00",
    "sport": "ot",
-   "titel": "Viertelfinale (Abendsession)",
+   "titel": "Halbfinals",
    "wettbewerb": "Darts · Grand Slam",
-   "sender": "Sport1 · DAZN (unbestätigt)",
+   "sender": "Sport1 · Joyn · DAZN",
    "top": false,
    "fav": false,
    "glocke": false
   },
   {
-   "id": "2026-11-21_0200_timberwolves-grizzlies",
-   "start": "2026-11-22T02:00:00+01:00",
-   "ende": "2026-11-22T04:30:00+01:00",
-   "sport": "nba",
-   "titel": "Timberwolves – Grizzlies",
-   "wettbewerb": "NBA",
-   "sender": "NBA League Pass",
+   "id": "2026-11-22_1730_werder-bremen-hsv",
+   "start": "2026-11-22T17:30:00+01:00",
+   "ende": "2026-11-22T19:25:00+01:00",
+   "sport": "fb",
+   "titel": "Werder Bremen – HSV",
+   "wettbewerb": "Bundesliga · Nordderby",
+   "sender": "DAZN",
    "top": true,
    "fav": true,
-   "glocke": false
+   "glocke": true
   },
   {
-   "id": "2026-11-21_0500_gp-las-vegas",
-   "start": "2026-11-22T05:00:00+01:00",
-   "ende": "2026-11-22T07:00:00+01:00",
-   "sport": "f1",
-   "titel": "GP Las Vegas",
-   "wettbewerb": "Formel 1",
+   "id": "2026-11-22_1730_liverpool-manchester-united",
+   "start": "2026-11-22T17:30:00+01:00",
+   "ende": "2026-11-22T19:25:00+01:00",
+   "sport": "fb",
+   "titel": "Liverpool – Manchester United",
+   "wettbewerb": "Premier League",
+   "sender": "Sky (Sky Go, WOW)",
+   "top": true,
+   "fav": true,
+   "glocke": true
+  },
+  {
+   "id": "2026-11-22_1900_panthers-ravens",
+   "start": "2026-11-22T19:00:00+01:00",
+   "ende": "2026-11-22T22:20:00+01:00",
+   "sport": "nfl",
+   "titel": "Panthers – Ravens",
+   "wettbewerb": "NFL · Week 11",
    "sender": "Sky",
+   "top": true,
+   "fav": true,
+   "glocke": true
+  },
+  {
+   "id": "2026-11-22_2015_finale",
+   "start": "2026-11-22T20:15:00+01:00",
+   "ende": "2026-11-22T22:15:00+01:00",
+   "sport": "ot",
+   "titel": "Finale",
+   "wettbewerb": "Darts · Grand Slam",
+   "sender": "Sport1 · Joyn · DAZN",
    "top": true,
    "fav": false,
    "glocke": true
+  },
+  {
+   "id": "2026-11-22_0220_vikings-49ers",
+   "start": "2026-11-23T02:20:00+01:00",
+   "ende": "2026-11-23T05:40:00+01:00",
+   "sport": "nfl",
+   "titel": "Vikings @ 49ers",
+   "wettbewerb": "NFL Sunday Night",
+   "sender": "Sky · RTL",
+   "top": false,
+   "fav": false,
+   "glocke": false
   }
  ],
  "woche": [
@@ -267,7 +267,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "w-so-0500-grosser-preis-von-las-vegas",
@@ -312,7 +312,7 @@
    "sport": "nfl",
    "titel": "Ravens @ Panthers",
    "wettbewerb": "NFL",
-   "sender": "Sender unbestätigt",
+   "sender": "Sky",
    "top": true,
    "fav": true,
    "glocke": true
@@ -324,7 +324,7 @@
    "sport": "nfl",
    "titel": "Vikings @ 49ers",
    "wettbewerb": "NFL Sunday Night",
-   "sender": "RTL",
+   "sender": "Sky · RTL",
    "top": false,
    "fav": false,
    "glocke": false
