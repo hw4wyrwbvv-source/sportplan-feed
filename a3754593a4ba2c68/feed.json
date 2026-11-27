@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T07:06:06+01:00",
+ "generated_at": "2026-11-27T12:05:53+01:00",
  "plan_date": "2026-11-27",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
@@ -25,7 +25,7 @@
    "sender": "Prime Video",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "2026-11-27_0130_raptors-nets",
@@ -37,7 +37,7 @@
    "sender": "NBA League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "2026-11-27_0230_timberwolves-grizzlies",
@@ -49,7 +49,7 @@
    "sender": "NBA League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   }
  ],
  "woche": [
@@ -255,7 +255,7 @@
    "sender": "Prime Video",
    "top": false,
    "fav": false,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "w-fr-0130-raptors-nets",
@@ -267,7 +267,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "w-fr-0230-timberwolves-grizzlies",
@@ -279,7 +279,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "w-sa-1530-hamburger-sv-bayern",
