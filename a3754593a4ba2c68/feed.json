@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T07:06:00+01:00",
+ "generated_at": "2026-11-28T12:05:46+01:00",
  "plan_date": "2026-11-28",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
@@ -13,6 +13,18 @@
    "sender": "Sky (Einzelspiel) · DAZN (Konferenz)",
    "top": true,
    "fav": true,
+   "glocke": true
+  },
+  {
+   "id": "2026-11-28_1715_katar-sprintrennen",
+   "start": "2026-11-28T17:15:00+01:00",
+   "ende": "2026-11-28T18:15:00+01:00",
+   "sport": "f1",
+   "titel": "Katar: Sprintrennen",
+   "wettbewerb": "Formel 2",
+   "sender": "Sky",
+   "top": true,
+   "fav": false,
    "glocke": true
   },
   {
@@ -282,6 +294,18 @@
    "glocke": true
   },
   {
+   "id": "w-sa-1715-katar-sprintrennen",
+   "start": "2026-11-28T17:15:00+01:00",
+   "ende": "2026-11-28T18:15:00+01:00",
+   "sport": "f1",
+   "titel": "Katar: Sprintrennen",
+   "wettbewerb": "Formel 2",
+   "sender": "Sky",
+   "top": true,
+   "fav": false,
+   "glocke": true
+  },
+  {
    "id": "w-sa-1830-stuttgart-frankfurt",
    "start": "2026-11-28T18:30:00+01:00",
    "ende": "2026-11-28T20:25:00+01:00",
@@ -315,6 +339,18 @@
    "sender": "Sky",
    "top": true,
    "fav": true,
+   "glocke": true
+  },
+  {
+   "id": "w-so-1300-katar-hauptrennen",
+   "start": "2026-11-29T13:00:00+01:00",
+   "ende": "2026-11-29T15:00:00+01:00",
+   "sport": "f1",
+   "titel": "Katar: Hauptrennen",
+   "wettbewerb": "Formel 2",
+   "sender": "Sky",
+   "top": true,
+   "fav": false,
    "glocke": true
   },
   {
