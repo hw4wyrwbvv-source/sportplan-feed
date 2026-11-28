@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T12:05:46+01:00",
+ "generated_at": "2026-11-28T18:05:53+01:00",
  "plan_date": "2026-11-28",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
@@ -23,6 +23,18 @@
    "titel": "Katar: Sprintrennen",
    "wettbewerb": "Formel 2",
    "sender": "Sky",
+   "top": true,
+   "fav": false,
+   "glocke": true
+  },
+  {
+   "id": "2026-11-28_1800_ohio-state-michigan",
+   "start": "2026-11-28T18:00:00+01:00",
+   "ende": "2026-11-28T21:20:00+01:00",
+   "sport": "nfl",
+   "titel": "Ohio State – Michigan",
+   "wettbewerb": "College Football",
+   "sender": "Sender unbestätigt (in Deutschland keine Übertragung bekannt, in den USA auf Fox)",
    "top": true,
    "fav": false,
    "glocke": true
