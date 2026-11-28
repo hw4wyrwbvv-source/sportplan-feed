@@ -1,55 +1,43 @@
 {
- "generated_at": "2026-11-27T12:05:53+01:00",
- "plan_date": "2026-11-27",
+ "generated_at": "2026-11-28T07:06:00+01:00",
+ "plan_date": "2026-11-28",
  "artifact": "https://claude.ai/artifact/3TGC2HCfZppYEc8S6NZPeP",
  "tag": [
   {
-   "id": "2026-11-27_2030_werder-bremen-gladbach",
-   "start": "2026-11-27T20:30:00+01:00",
-   "ende": "2026-11-27T22:25:00+01:00",
+   "id": "2026-11-28_1530_hamburger-sv-bayern",
+   "start": "2026-11-28T15:30:00+01:00",
+   "ende": "2026-11-28T17:25:00+01:00",
    "sport": "fb",
-   "titel": "Werder Bremen – Gladbach",
+   "titel": "Hamburger SV – Bayern",
+   "wettbewerb": "Bundesliga",
+   "sender": "Sky (Einzelspiel) · DAZN (Konferenz)",
+   "top": true,
+   "fav": true,
+   "glocke": true
+  },
+  {
+   "id": "2026-11-28_1830_stuttgart-frankfurt",
+   "start": "2026-11-28T18:30:00+01:00",
+   "ende": "2026-11-28T20:25:00+01:00",
+   "sport": "fb",
+   "titel": "Stuttgart – Frankfurt",
    "wettbewerb": "Bundesliga",
    "sender": "Sky",
-   "top": true,
-   "fav": true,
-   "glocke": true
-  },
-  {
-   "id": "2026-11-27_2100_broncos-steelers",
-   "start": "2026-11-27T21:00:00+01:00",
-   "ende": "2026-11-28T00:20:00+01:00",
-   "sport": "nfl",
-   "titel": "Broncos @ Steelers",
-   "wettbewerb": "NFL",
-   "sender": "Prime Video",
    "top": false,
    "fav": false,
+   "glocke": false
+  },
+  {
+   "id": "2026-11-28_1900_gp-katar-qualifying",
+   "start": "2026-11-28T19:00:00+01:00",
+   "ende": "2026-11-28T20:00:00+01:00",
+   "sport": "f1",
+   "titel": "GP Katar: Qualifying",
+   "wettbewerb": "Formel 1",
+   "sender": "Sky",
+   "top": true,
+   "fav": false,
    "glocke": true
-  },
-  {
-   "id": "2026-11-27_0130_raptors-nets",
-   "start": "2026-11-28T01:30:00+01:00",
-   "ende": "2026-11-28T04:00:00+01:00",
-   "sport": "nba",
-   "titel": "Raptors – Nets",
-   "wettbewerb": "NBA Cup",
-   "sender": "NBA League Pass",
-   "top": true,
-   "fav": true,
-   "glocke": false
-  },
-  {
-   "id": "2026-11-27_0230_timberwolves-grizzlies",
-   "start": "2026-11-28T02:30:00+01:00",
-   "ende": "2026-11-28T05:00:00+01:00",
-   "sport": "nba",
-   "titel": "Timberwolves – Grizzlies",
-   "wettbewerb": "NBA Cup",
-   "sender": "NBA League Pass",
-   "top": true,
-   "fav": true,
-   "glocke": false
   }
  ],
  "woche": [
@@ -255,7 +243,7 @@
    "sender": "Prime Video",
    "top": false,
    "fav": false,
-   "glocke": true
+   "glocke": false
   },
   {
    "id": "w-fr-0130-raptors-nets",
@@ -267,7 +255,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "w-fr-0230-timberwolves-grizzlies",
@@ -279,7 +267,7 @@
    "sender": "League Pass",
    "top": true,
    "fav": true,
-   "glocke": false
+   "glocke": true
   },
   {
    "id": "w-sa-1530-hamburger-sv-bayern",
